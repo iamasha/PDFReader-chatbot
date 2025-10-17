@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+rag_env/
+env/
+venv/
+
+# FAISS and embeddings
+*.index
+*.pkl
+meta_pk1
+local_model/
+cache/
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
